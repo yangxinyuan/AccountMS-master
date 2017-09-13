@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AccountMS</string>
+    <string-array name="intype">
+        <item >生活</item>
+        <item>旅行</item>
+        <item>sx</item>
+    </string-array>
 </resources>
